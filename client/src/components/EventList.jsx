@@ -101,7 +101,7 @@ const EventList = () => {
             </Button>
             </Box>
             <Box>
-            <Button variant="contained" href="https://payment-hchk9jq6o-kousik-dev.vercel.app/" disableElevation>
+            <Button variant="contained" href="https://payment-tawny-two.vercel.app/" disableElevation>
               Payments
             </Button>
              
